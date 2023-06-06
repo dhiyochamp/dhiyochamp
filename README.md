@@ -1,4 +1,4 @@
-[![Banner](https://example.com/linkdlnback.jpg)](https://example.com/)
+[![Banner](linkdlnback.jpg)](linkdlnback.jpg)
 
 <h1 align="center">Hi 👋, I'm ABHAY SINGH</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
