@@ -1,31 +1,115 @@
-[![Banner](linkdlnback.jpg)](linkdlnback.jpg)
+<div align="center">
+  <img width="100%" height="200px" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Banner"/>
+</div>
 
-<h1 align="center">Hi 👋, I'm ABHAY SINGH</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6E64BD&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+ABHAY+SINGH;Full+Stack+Developer+from+India;Passionate+about+Web+Development;Always+learning+new+things" alt="Typing SVG" /></a>
+</div>
 
-- 🌱 I’m currently learning **Frameworks,Full Stack Developer**
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-- 👨‍💻 All of my projects are available at [https://abhaysinghcv.w3spaces.com/index.html](https://abhaysinghcv.w3spaces.com/index.html)
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" />
 
-- 💬 Ask me about **Angular12,node.js**
-
-- 📫 How to reach me **abhaysingh0836481@outolook.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ew5ZAJDBG5j39bCk9_8jG4DjNSn5mS_9/view?pli=1](https://drive.google.com/file/d/1ew5ZAJDBG5j39bCk9_8jG4DjNSn5mS_9/view?pli=1)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/%E1%B4%87%CA%80-%E1%B4%80%CA%99%CA%9C%E1%B4%80%CA%8F-%EA%9C%B1%C9%AA%C9%B4%C9%A2%CA%9C-a99619207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="er.abhaysingh." height="30" width="40" /></a>
-<a href="https://fb.com/abhay singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhay singh" height="30" width="40" /></a>
-<a href="https://instagram.com/er_abhii_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er_abhii_23" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=er-abhay-fsd&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile-views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=er-abhay-fsd&show_icons=true&locale=en&layout=compact" alt="er-abhay-fsd" /></p>
+```javascript
+const abhay = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "TypeScript", "Java", "HTML", "CSS"],
+    technologies: {
+        frontEnd: {
+            js: ["Angular", "React"],
+            css: ["Bootstrap", "Material UI"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            java: ["Spring"]
+        },
+        databases: ["MongoDB", "MySQL", "Oracle", "SQLite"]
+    },
+    currentFocus: "Full Stack Development",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=er-abhay-fsd&show_icons=true&locale=en" alt="er-abhay-fsd" /></p>
+- 🌱 I'm currently learning **Advanced Frameworks & Full Stack Development**
+- 👨‍💻 Portfolio: [https://abhaysinghcv.w3spaces.com/index.html](https://abhaysinghcv.w3spaces.com/index.html)
+- 💬 Ask me about **Angular12, Node.js**
+- 📫 Reach me at **abhaysingh0836481@outlook.com**
+- 📄 My experiences: [View Resume](https://drive.google.com/file/d/1ew5ZAJDBG5j39bCk9_8jG4DjNSn5mS_9/view?pli=1)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=er-abhay-fsd&" alt="er-abhay-fsd" /></p>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<h3 align="left">🤝 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/%E1%B4%87%CA%80-%E1%B4%80%CA%99%CA%9C%E1%B4%80%CA%8F-%EA%9C%B1%C9%AA%C9%B4%C9%A2%CA%9C-a99619207/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://fb.com/abhay singh" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+  </a>
+  <a href="https://instagram.com/er_abhii_23" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<h3 align="left">💻 Languages and Tools:</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,express,mongodb,mysql,java,spring" /><br/>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,bootstrap,git,github,vscode" /><br/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=er-abhay-fsd&theme=algolia&no-frame=false&no-bg=true&margin-w=4" width="100%" alt="Trophy" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=er-abhay-fsd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-abhay-fsd&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=er-abhay-fsd&theme=algolia&hide_border=false" alt="Contribution Stats" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+### 🐍 Watch my contribution graph being eaten by the snake
+
+<div align="center">
+  <img src="https://github.com/er-abhay-fsd/er-abhay-fsd/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
