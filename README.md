@@ -2,9 +2,9 @@
   <!-- Enhanced Animated Header with 3D Effect -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=300&section=header&text=Abhay%20Singh&desc=Full%20Stack%20Developer%20%7C%20Code%20Craftsman&fontSize=50&descSize=20&fontColor=fff&animation=fadeIn&fontAlignY=35&descAlignY=55" />
   <!-- Multi-line Typing Animation with Enhanced Effects -->
-  <a href="https://git.io/typing-svg">
+ <div> <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E64BD&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+my+Digital+Garden+🌱;Crafting+Elegant+Solutions+to+Complex+Problems+💻;4%2B+Years+of+Building+Amazing+Web+Experiences+✨" alt="Typing SVG" />
-  </a>
+  </a></div>
   <!-- Dynamic Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
