@@ -6,6 +6,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E64BD&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+my+Coding+Universe+🚀;Building+Digital+Experiences+One+Line+at+a+Time+💻;Passionate+about+Clean+Code+and+Innovation+✨" alt="Typing SVG" />
   </a>
+  <div>
+        
+  </div>
 
   <!-- Dynamic Snake Animation -->
   <picture>
