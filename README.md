@@ -3,9 +3,10 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=300&section=header&text=dhiyochamp&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast&fontSize=50&descSize=20&fontColor=fff&animation=fadeIn&fontAlignY=35&descAlignY=55" />
     <div>
   <!-- Multi-line Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E64BD&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+my+Coding+Universe+🚀;Building+Digital+Experiences+One+Line+at+a+Time+💻;Passionate+about+Clean+Code+and+Innovation+✨" alt="Typing SVG" />
-  </a>
+ <!-- Multi-line Typing Animation -->
+    <a href="https://git.io/typing-svg" target="_blank">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E64BD&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+Dhiyochamp+Tech+Solutions+🚀;Innovative+Digital+Solutions+for+Businesses+💡;Empowering+Growth+with+Technology+and+Automation+⚙️" alt="Typing SVG Animation" />
+    </a>
   <div>
         
   </div>
